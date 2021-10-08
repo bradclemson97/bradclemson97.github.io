@@ -4,36 +4,36 @@
 
 
 email:
-  url   : "mailto: bradclemson97@gmail.com"
+  url   : "mailto:"
   icon  : fas fa-envelope
   color : db4437
 
 facebook:
-  url   : https://www.facebook.com/bradley.clemson.7/
+  url   : https://www.facebook.com/
   icon  : fab fa-facebook
   color : 3b5998
 
 github:
-  url   : https://github.com/bradclemson97
+  url   : https://github.com/
   icon  : fab fa-github
   color : 333333
 
 instagram:
-  url   : https://www.instagram.com/bradclemson/
+  url   : https://www.instagram.com/
   icon  : fab fa-instagram
   color : 405de6
 
 linkedin:
-  url   : https://www.linkedin.com/in/bradleyclemson/
+  url   : https://www.linkedin.com/in/
   icon  : fab fa-linkedin-in
   color : 007bb5
 
 twitter:
-  url   : https://twitter.com/bradclemson
+  url   : https://twitter.com/
   icon  : fab fa-twitter
   color : 1da1f2
 
 youtube:
-  url   : https://www.youtube.com/channel/UC9B63ANQ27KeTQs71onJzXQ
+  url   : https://www.youtube.com/
   icon  : fab fa-youtube
   color : ff0000
