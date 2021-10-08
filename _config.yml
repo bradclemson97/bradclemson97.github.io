@@ -25,7 +25,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Bradley Clemson
-  image             : bradclemson97/bradclemson97.github.io/_assets/photo-1.jpg
+  image             : https://github.com/bradclemson97/bradclemson97.github.io/blob/main/_assets/photo-1.jpg
 # behance           : bradclemson97
 # dribbble          : your_username
   email             : bradclemson97@gmail.com
