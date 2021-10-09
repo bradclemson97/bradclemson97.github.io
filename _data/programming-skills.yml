@@ -2,6 +2,10 @@
   percentage: 90
   color: danger
 
+- name: Javascript
+  percentage: 85
+  color: sucess
+
 - name: Python
   percentage: 80
   color:
