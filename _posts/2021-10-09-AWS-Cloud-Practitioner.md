@@ -43,13 +43,14 @@ Pricing and Support
 ## Region:
 Region is a geographically distinct location in the world which contains multiple AZs. Every region is physically isolation from and independent of every other region. Each region has at least 2 AZs. AWS largest and most available region is US-EAST. Not all services are available in all regions. 
 
-##Availability Zone (AZ): 
+## Availability Zone (AZ): 
 AZs contain one or more discrete data centres with independent resources and housed in different facilities. <10ms latency between AZs. 
 
 ## Edge Locations: 
 Datacentre owned by a trusted partner of AWS, there are away more Edge Locations than Availability Zones (AZs). These locations serve requests for CloudFront and Route 53, requests automatically go to edge locations. Also used by S3 transfer acceleration traffic and CPI gateway endpoint traffic. 
 
-## GovCloud (US) Regions: Operated by US citizens on US soil only. Allow customers to host sensitive Controlled Unclassified Information. E.g., complies with department of defence security requirements. 
+## GovCloud (US) Regions: 
+Operated by US citizens on US soil only. Allow customers to host sensitive Controlled Unclassified Information. E.g., complies with department of defence security requirements. 
 
 
 # Networking
