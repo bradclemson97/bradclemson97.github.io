@@ -4,7 +4,7 @@
 
 - name: Javascript
   percentage: 85
-  color: sucess
+  color: success
 
 - name: Python
   percentage: 80

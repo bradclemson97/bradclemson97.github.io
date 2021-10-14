@@ -1,7 +1,11 @@
-- name: AWS
-  percentage: 95
+- name: GitLab
+  percentage: 90
   color: info
 
-- name: Unity 3D
-  percentage: 90
+- name: Unity 2D/3D
+  percentage: 80
   color: success
+
+- name: AWS
+  percentage: 70
+  color: secondary
